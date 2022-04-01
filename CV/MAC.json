@@ -8,7 +8,15 @@
     "profile": {
       "name": "Jesús",
       "surnames": "López Corominas",
-      "description": "Llegué al desarrollo algo tarde, después de haber pasado unos años en químicas primero y otros en biología hasta decidir que no era para mi. \nCon 26 años, hice el módulo de Desarrollo de Aplicaciones Informáticas y al terminar empecé a trabajar en Treelogic, donde pasé aproximadamente dos años y medio creando la parte móvil de aplicaciones de gestión y seguimiento de flotas para dispositivos con Windows Mobile, Windows CE y Mobile Devices (dispositivos de seguimiento programados en Java). Entre otras, hicimos aplicaciones para los supermercados Alimerka, los taxis de Lisboa o el servicio de limpieza y recogida de basuras de Gijón. Aunque todas estas plataformas ya están más que desfasadas, sí que me sirvió para ir conociendo el mundo del desarrollo móvil (y saber que es a lo que me quería dedicar) e ir viendo problemas y soluciones que siguen siendo válidas en desarrollos actuales. \nDespués de ahí, estuve casi 5 años en ABAMobile, donde desarrollábamos aplicaciones móviles nativas Android e iOS para clientes como Philips Lighting, digitalizando y modernizando su catálogo o Edelvives, creando una aplicación que permite a niños controlar y programar un robot con un teléfono o una tablet. También desarrollamos la aplicación WeQuiz para formar empleados de forma lúdica. \nAdemás, en ABAMobile pude desarrollar e impartir varios cursos de iniciación a la programación en Android.\nTras esto, pasé 8 meses en Capgemini ayudando a lanzar un nuevo equipo de movilidad, colaborando en la definición de la arquitectura Android a utilizar y creando también aplicaciones para terceros, como Correos Express y aplicaciones de uso interno a la empresa.\nFinalmente, estoy trabajando en la empresa Talkao (con sede en Málaga pero de forma 100% remota desde Oviedo) desde septiembre de 2018. Tenemos diversas aplicaciones propias de traducción cuya parte Android colaboro a mantener y agregar funcionalidades."
+      "title": "",
+      "description": "Llegué al desarrollo algo tarde, después de haber pasado unos años en químicas primero y otros en biología hasta decidir que no era para mí.\n \nCon 26 años, hice el módulo de Desarrollo de Aplicaciones Informáticas y al terminar empecé a trabajar en Treelogic, donde pasé aproximadamente dos años y medio creando la parte móvil de aplicaciones de gestión y seguimiento de flotas para dispositivos con Windows Mobile, Windows CE y Mobile Devices (dispositivos de seguimiento programados en Java). Entre otras, hicimos aplicaciones para los supermercados Alimerka, los taxis de Lisboa o el servicio de limpieza y recogida de basuras de Gijón. Aunque todas estas plataformas ya están más que desfasadas, sí que me sirvió para ir conociendo el mundo del desarrollo móvil (y saber que era a lo que me quería dedicar) e ir viendo problemas y soluciones que siguen siendo válidas en desarrollos actuales. \n\nDespués estuve casi 5 años en ABAMobile, donde desarrollábamos aplicaciones móviles nativas Android e iOS para clientes como Philips Lighting, digitalizando y modernizando su catálogo o Edelvives, creando una aplicación que permite a niños controlar y programar un robot con un teléfono o una tablet. También desarrollamos la aplicación WeQuiz para formar empleados de forma lúdica. \n\nAdemás, en ABAMobile pude desarrollar e impartir varios cursos de iniciación a la programación en Android.\n\nTras esto, pasé 8 meses en Capgemini ayudando a lanzar un nuevo equipo de movilidad, colaborando en la definición de la arquitectura Android a utilizar y creando también aplicaciones para terceros, como Correos Express y aplicaciones de uso interno a la empresa.\n\nDespués de ese breve tiempo por una gran consultora, pasé al mundo del producto con Talkao, con sede en Málaga pero de forma 100% remota desde Oviedo desde septiembre de 2018. Teníamos diversas aplicaciones propias de traducción cuya parte Android colaboro a mantener y agregar funcionalidades.\n\nFinalmente, en noviembre de 2020 empecé a trabajar en Nomasystems, empresa coruñesa pero manteniendo el trabajo remoto, en un proyecto para Inditex, mejorando y agilizando la obtención de información para mejorar las ventas y gestión de las tiendas.",
+      "avatar": {
+        "alt": "web_hi_res_512.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/84bada16-931f-498e-9aaf-8c56e7da1e16_web_hi_res_512.png"
+      },
+      "location": {
+        "notes": ""
+      }
     },
     "relevantLinks": [
       {
@@ -36,6 +44,12 @@
       },
       {
         "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "iOS",
           "type": "technology"
         }
@@ -43,6 +57,30 @@
       {
         "skill": {
           "name": "Android",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
           "type": "technology"
         }
       }
