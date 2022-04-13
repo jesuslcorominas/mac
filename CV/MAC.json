@@ -243,6 +243,31 @@
         "tags": [
           ""
         ]
+      },
+      {
+        "details": {
+          "name": "Gestion Retail",
+          "description": "Lanzamiento de la primera versión de Gestion Retail para optimizar la visualización de la información en tiendas de multinacional textil",
+          "image": {
+            "alt": "ic_launcher.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/6b134fa5-64ec-4d8f-aec7-da87f8af1ae0_ic_launcher.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2021-07-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          ""
+        ]
       }
     ]
   },
