@@ -108,6 +108,46 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Capgemini",
+          "image": {
+            "alt": "2560px-Capgemini_201x_logo.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/d8e0ca81-fcd6-46b7-a233-5d00ad8028a5_2560px-capgemini_201.png"
+          },
+          "URL": "https://www.capgemini.com/es-es/"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2018-01-01",
+            "finishDate": "2018-08-01",
+            "challenges": [
+              {
+                "description": "Durante 8 meses trabajé en la consultora Capgemini ayudando a lanzar el equipo de movilidad para la factoría de Asturias, colaborando en la definición de la arquitectura y patrones a utilizar en las aplicaciones a desarrollar, tanto internas como para terceros."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
