@@ -39,6 +39,46 @@
     "jobs": [
       {
         "organization": {
+          "name": "ABAMobile",
+          "image": {
+            "alt": "logo-ABAMobile-web.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/099048b2-9d29-4aec-9aa7-9f5c74e0b1ce_logo-abamobile-web.png"
+          },
+          "URL": "https://abamobile.com/"
+        },
+        "roles": [
+          {
+            "name": "Programador Senior en ABAMobile",
+            "startDate": "2013-03-01",
+            "finishDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": "Durante casi 5 años trabajé en ABAMobile como desarrollador de aplicaciones nativas, tanto Android como iOS en múltiples proyectos para terceros. \nEntre ellos, destaca el catálogo digital de Philips Lighting, donde digitalizamos todo el catálogo de luminarias para Philips Lighting Ibérica primero e internacionalizándolo después en Europa y Norte América.\nTambién aquí colaboré en uno de los proyectos más entretenidos de mi carrera, el robot Next de la editorial Edelvives, consistente en permitir a niños conectarse a un robot y controlarlo mediante secuencias sencillas introducidas en el móvil."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Treelogic",
           "image": {
             "alt": "1600px-Logo_treelogic_recortado.jpeg",
