@@ -62,12 +62,6 @@
       },
       {
         "skill": {
-          "name": "Adobe Photoshop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Jira",
           "type": "technology"
         }
