@@ -71,12 +71,6 @@
           "name": "Git",
           "type": "technology"
         }
-      },
-      {
-        "skill": {
-          "name": "Android Studio",
-          "type": "technology"
-        }
       }
     ]
   },
