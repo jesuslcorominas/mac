@@ -83,7 +83,8 @@
           "image": {
             "alt": "1600px-Logo_treelogic_recortado.jpeg",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/613aff31-6fa2-4b75-be5a-fd128668cbdb_1600px-logo_treelogi.jpeg"
-          }
+          },
+          "URL": ""
         },
         "roles": [
           {
@@ -93,6 +94,16 @@
             "challenges": [
               {
                 "description": "Empecé mi carrera trabajando en Treelogic en la parte móvil de aplicaciones de gestión y seguimiento de flotas con Windows Mobile y Mobile Devices (dispositivos embarcados programados con Java).\nParticipé en el desarrollo de proyectos como la gestión de la flota de taxis de Lisboa, el servicio de recogida de basuras de Gijón o la cadena de supermercados Alimerka, tanto para el seguimiento de camiones como la aplicación de los repartidores a domicilio."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
+                "type": "technology"
               }
             ]
           }
