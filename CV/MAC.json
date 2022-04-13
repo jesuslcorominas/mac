@@ -94,6 +94,36 @@
           "URL": "https://www.linkedin.com/in/jesus-lopez-corominas-34a5171a/"
         }
       ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Android",
+          "type": "technology"
+        },
+        {
+          "name": "JetPack",
+          "type": "technology"
+        },
+        {
+          "name": "iOS",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "Cordova",
+          "type": "technology"
+        },
+        {
+          "name": "Xamarin",
+          "type": "technology"
+        },
+        {
+          "name": "PhoneGap",
+          "type": "technology"
+        }
+      ]
     }
   }
 }
