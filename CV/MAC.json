@@ -215,6 +215,42 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Izertis",
+          "image": {
+            "alt": "Logo Izertis.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/9fbe8845-c36a-4565-931b-5e3c766784b3_logo-izertis.png"
+          },
+          "URL": "https://www.izertis.com/es/"
+        },
+        "roles": [
+          {
+            "name": "Formador",
+            "startDate": "2014-01-01",
+            "finishDate": "2014-04-01",
+            "challenges": [
+              {
+                "description": "En 2014 creé e impartí sendos cursos de introducción y desarrollo avanzado de aplicaciones Android  para Izertis"
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
