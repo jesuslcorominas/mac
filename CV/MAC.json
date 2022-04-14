@@ -416,6 +416,37 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
+        "startDate": "2005-09-01",
+        "finishDate": "2007-06-01",
+        "institution": {
+          "name": "Instituto Monte Naranco",
+          "description": "Técnico superior en desarrollo de aplicaciones informáticas donde adquirí los conocimientos básicos de programación y desarrollo",
+          "image": {
+            "alt": "Logo Instituto Enseñanza Secundaria Monte Naranco.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/d5822247-bfef-4f50-839b-d92f72b176a4_logo-instituto-ensen.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
+            "type": "technology"
+          }
+        ]
+      }
     ]
   },
   "careerPreferences": {
