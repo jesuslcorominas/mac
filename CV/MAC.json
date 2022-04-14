@@ -256,32 +256,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Next 2.0",
-          "description": "Aplicación móvil Android para que niños controlen un robot con el teléfono o tablet con secuencias sencillas aprendiendo conceptos básicos de programación.",
-          "URL": "https://www.edelvives.com/es/Catalogo/p/robot-primaria-next",
-          "image": {
-            "alt": "118642_Cub_next2_web.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/aa2342e3-54fe-4d46-8ee4-cbb3ba2ba002_118642_cub_next2_web.jpeg"
-          }
-        },
-        "type": "launch",
-        "publishingDate": "2017-09-01",
-        "relatedCompetences": [
-          {
-            "name": "Android",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          ""
-        ]
-      },
-      {
-        "details": {
           "name": "Gestion Retail",
           "description": "Lanzamiento de la primera versión de Gestion Retail para optimizar la visualización de la información en tiendas de multinacional textil",
           "image": {
@@ -354,6 +328,32 @@
           },
           {
             "name": "Android",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "details": {
+          "name": "Next 2.0",
+          "description": "Aplicación móvil Android para que niños controlen un robot con el teléfono o tablet con secuencias sencillas aprendiendo conceptos básicos de programación.",
+          "URL": "https://play.google.com/store/apps/details?id=com.edelvives.nextapp20",
+          "image": {
+            "alt": "118642_Cub_next2_web.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/aa2342e3-54fe-4d46-8ee4-cbb3ba2ba002_118642_cub_next2_web.jpeg"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2017-09-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
             "type": "technology"
           }
         ],
