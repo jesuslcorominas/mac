@@ -360,6 +360,32 @@
         "tags": [
           ""
         ]
+      },
+      {
+        "details": {
+          "name": "Emulsa SAE",
+          "description": "Despliegue de dispositivos embarcados en los vehículos limpiadores y los camiones de recogida de basura de Gijón para optimización de rutas. Control de vaciado de contenedores con la instalación de etiquetas RFID en cada uno de ellos así como lectores en todos los camiones.",
+          "URL": "https://www.gijon.es/es/directorio/empresa-municipal-de-servicios-de-medio-ambiente-urbano-de-gijon-sa-emulsa",
+          "image": {
+            "alt": "Logo Emulsa.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/6514bcf8-c2e9-4770-97ed-bbd2920da3fb_logo-emulsa.jpg"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2008-05-01",
+        "relatedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "RFID",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          ""
+        ]
       }
     ]
   },
