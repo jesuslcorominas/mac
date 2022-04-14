@@ -334,6 +334,32 @@
         "tags": [
           "Formación"
         ]
+      },
+      {
+        "details": {
+          "name": "Voice to Voice",
+          "description": "Lanzamiento de la funcionalidad Voice to Voice de Talkao Translate para que dos hablantes de distintos idiomas puedan mantener una conversación con traducción en tiempo real",
+          "URL": "https://play.google.com/store/apps/details?id=com.ticktalk.translatevoice",
+          "image": {
+            "alt": "Logo Talkao Translate.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/9f07a0d9-c3f3-49ab-a98f-935370d7a90e_logo-talkao-translat.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2019-06-01",
+        "relatedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          },
+          {
+            "name": "Android",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          ""
+        ]
       }
     ]
   },
