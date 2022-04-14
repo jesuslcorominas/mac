@@ -309,13 +309,14 @@
         "details": {
           "name": "Desarrollo avanzado de aplicaciones Android",
           "description": "Creación e impartición del curso avanzado de desarrollo de aplicaciones Android en Izertis",
+          "URL": "",
           "image": {
             "alt": "Logo Android.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/d8ce33ab-fd87-406a-a846-185fd5f0d35a_logo-android.png"
           }
         },
         "type": "talk",
-        "publishingDate": "2012-03-01",
+        "publishingDate": "2014-03-01",
         "relatedCompetences": [
           {
             "name": "Android",
@@ -331,7 +332,7 @@
           }
         ],
         "tags": [
-          ""
+          "Formación"
         ]
       }
     ]
