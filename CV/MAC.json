@@ -307,29 +307,6 @@
       },
       {
         "details": {
-          "name": "Emulsa SAE",
-          "description": "Despliegue de dispositivos embarcados en los vehículos limpiadores y los camiones de recogida de basura de Gijón para optimización de rutas. Control de vaciado de contenedores con la instalación de etiquetas RFID en cada uno de ellos así como lectores en todos los camiones.",
-          "URL": "https://www.gijon.es/es/directorio/empresa-municipal-de-servicios-de-medio-ambiente-urbano-de-gijon-sa-emulsa",
-          "image": {
-            "alt": "Logo Emulsa.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/c8d2047e-1e88-4c54-8bc7-93d4a8e0de0c_6514bcf8-c2e9-4770-9.jpg"
-          }
-        },
-        "type": "launch",
-        "publishingDate": "2011-05-01",
-        "relatedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "RFID",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Next 2.0",
           "description": "Aplicación móvil Android para que niños controlen un robot con el teléfono o tablet con secuencias sencillas aprendiendo conceptos básicos de programación.",
           "URL": "https://play.google.com/store/apps/details?id=com.edelvives.nextapp20",
@@ -372,6 +349,32 @@
             "name": "Android",
             "type": "technology"
           }
+        ]
+      },
+      {
+        "details": {
+          "name": "Emulsa SAE",
+          "description": "Despliegue de dispositivos embarcados en los vehículos limpiadores y los camiones de recogida de basura de Gijón para optimización de rutas. Control de vaciado de contenedores con la instalación de etiquetas RFID en cada uno de ellos así como lectores en todos los camiones.",
+          "URL": "https://www.gijon.es/es/directorio/empresa-municipal-de-servicios-de-medio-ambiente-urbano-de-gijon-sa-emulsa",
+          "image": {
+            "alt": "Logo Emulsa.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/c8d2047e-1e88-4c54-8bc7-93d4a8e0de0c_6514bcf8-c2e9-4770-9.jpg"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2012-01-01",
+        "relatedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "RFID",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          ""
         ]
       }
     ]
