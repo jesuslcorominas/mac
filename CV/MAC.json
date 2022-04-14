@@ -12,7 +12,7 @@
       "description": "Llegué al desarrollo algo tarde, después de haber pasado unos años en químicas primero y otros en biología hasta decidir que no era para mí.\n \nCon 26 años, hice el módulo de Desarrollo de Aplicaciones Informáticas y al terminar empecé a trabajar en Treelogic, donde pasé aproximadamente dos años y medio creando la parte móvil de aplicaciones de gestión y seguimiento de flotas para dispositivos con Windows Mobile, Windows CE y Mobile Devices (dispositivos de seguimiento programados en Java). Entre otras, hicimos aplicaciones para los supermercados Alimerka, los taxis de Lisboa o el servicio de limpieza y recogida de basuras de Gijón. \n\nAunque todas estas plataformas ya están más que desfasadas, sí que me sirvió para ir conociendo el desarrollo móvil y saber que era a lo que me quería dedicar. \n\nDespués estuve casi 5 años en ABAMobile, donde creaba aplicaciones nativas Android e iOS para clientes como Philips Lighting, digitalizando y modernizando su catálogo o Edelvives, con una aplicación que permite a niños controlar y programar un robot con un teléfono o una tablet. \n\nAdemás, en ABAMobile pude desarrollar e impartir varios cursos de iniciación a la programación en Android.\n\nTras esto, pasé 8 meses en Capgemini ayudando a lanzar un nuevo equipo de movilidad, colaborando en la definición de la arquitectura Android a utilizar y creando también aplicaciones para terceros, como Correos Express y aplicaciones de uso interno a la empresa.\n\nDespués de ese breve tiempo por una gran consultora, pasé 2 años en  desarrollo de producto con Talkao, con sede en Málaga pero de forma 100% remota desde Oviedo. Teníamos diversas aplicaciones propias de traducción cuya parte Android contribuía a mantener y agregar nuevas funcionalidades.\n\nFinalmente, en noviembre de 2020 empecé a trabajar en Nomasystems, empresa coruñesa pero manteniendo el trabajo remoto, en un proyecto para Inditex, mejorando y agilizando la obtención de información para incrementar las ventas y optimizar la gestión de las tiendas.",
       "avatar": {
         "alt": "web_hi_res_512.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/01/84bada16-931f-498e-9aaf-8c56e7da1e16_web_hi_res_512.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/260e767e-472b-4630-a20e-428840b02c36_84bada16-931f-498e-9.png"
       },
       "location": {
         "notes": "Oviedo"
@@ -39,21 +39,21 @@
     "jobs": [
       {
         "organization": {
-          "name": "ABAMobile",
+          "name": "Treelogic",
           "image": {
-            "alt": "logo-ABAMobile-web.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/099048b2-9d29-4aec-9aa7-9f5c74e0b1ce_logo-abamobile-web.png"
+            "alt": "1600px-Logo_treelogic_recortado.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/41ab999d-3bae-4df2-9d1e-7379218e765a_613aff31-6fa2-4b75-b.jpeg"
           },
-          "URL": "https://abamobile.com/"
+          "URL": "https://www.treelogic.com/es/index.html"
         },
         "roles": [
           {
-            "name": "Programador Senior",
-            "startDate": "2013-03-01",
-            "finishDate": "2018-01-01",
+            "name": "Programador Junior",
+            "startDate": "2010-02-01",
+            "finishDate": "2012-08-01",
             "challenges": [
               {
-                "description": "Durante casi 5 años trabajé en ABAMobile como desarrollador de aplicaciones nativas, tanto Android como iOS en múltiples proyectos para terceros. \nEntre ellos, destaca el catálogo digital de Philips Lighting, donde digitalizamos todo el catálogo de luminarias para Philips Lighting Ibérica primero e internacionalizándolo después en Europa y Norte América.\nTambién aquí colaboré en uno de los proyectos más entretenidos de mi carrera, el robot Next de la editorial Edelvives, consistente en permitir a niños conectarse a un robot y controlarlo mediante secuencias sencillas introducidas en el móvil."
+                "description": "Empecé mi carrera trabajando en Treelogic en la parte móvil de aplicaciones de gestión y seguimiento de flotas con Windows Mobile y Mobile Devices (dispositivos embarcados programados con Java).\nParticipé en el desarrollo de proyectos como la gestión de la flota de taxis de Lisboa, el servicio de recogida de basuras de Gijón o la cadena de supermercados Alimerka, tanto para el seguimiento de camiones como la aplicación de los repartidores a domicilio."
               }
             ],
             "competences": [
@@ -62,11 +62,34 @@
                 "type": "technology"
               },
               {
-                "name": "iOS",
+                "name": "C#",
                 "type": "technology"
-              },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nomasystems",
+          "image": {
+            "alt": "4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2RSuDrT2FPg0ycde0h0CmmHOyfj0sVNcHQ7ISBsW2w4jEkby6kJAeK9lbujUBzRo8A.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/2f6243ed-84b9-4c8e-abd1-810ad05b44e2_a33b9a2f-0b4a-424f-b.jpg"
+          },
+          "URL": "https://www.nomasystems.es/"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de Software",
+            "startDate": "2020-10-01",
+            "challenges": [
               {
-                "name": "Objective-C",
+                "description": "Actualmente, trabajo como Ingeniero de Software en Nomasystems, empresa coruñesa pero de forma remota desde Oviedo. Estamos creando un producto para una multinacional textil para mejorar el recabado y visualización de la información en las tiendas y así incrementar las ventas y optimizar sus procesos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Kotlin",
                 "type": "technology"
               },
               {
@@ -82,7 +105,7 @@
           "name": "Capgemini",
           "image": {
             "alt": "2560px-Capgemini_201x_logo.svg.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/d8e0ca81-fcd6-46b7-a233-5d00ad8028a5_2560px-capgemini_201.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/0c891b40-99b1-4223-b9bf-3a63414e1910_d8e0ca81-fcd6-46b7-a.png"
           },
           "URL": "https://www.capgemini.com/es-es/"
         },
@@ -119,42 +142,10 @@
       },
       {
         "organization": {
-          "name": "Treelogic",
-          "image": {
-            "alt": "1600px-Logo_treelogic_recortado.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/613aff31-6fa2-4b75-be5a-fd128668cbdb_1600px-logo_treelogi.jpeg"
-          },
-          "URL": "https://www.treelogic.com/es/index.html"
-        },
-        "roles": [
-          {
-            "name": "Programador Junior",
-            "startDate": "2010-02-01",
-            "finishDate": "2012-08-01",
-            "challenges": [
-              {
-                "description": "Empecé mi carrera trabajando en Treelogic en la parte móvil de aplicaciones de gestión y seguimiento de flotas con Windows Mobile y Mobile Devices (dispositivos embarcados programados con Java).\nParticipé en el desarrollo de proyectos como la gestión de la flota de taxis de Lisboa, el servicio de recogida de basuras de Gijón o la cadena de supermercados Alimerka, tanto para el seguimiento de camiones como la aplicación de los repartidores a domicilio."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Talkao",
           "image": {
             "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/0e9155b3-b743-4950-924b-6ccbeb5e0d51_logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/c0c7631b-d973-40a4-acf6-c61854d0e256_0e9155b3-b743-4950-9.png"
           },
           "URL": "https://www.talkao.com/"
         },
@@ -187,41 +178,10 @@
       },
       {
         "organization": {
-          "name": "Nomasystems",
-          "image": {
-            "alt": "4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2RSuDrT2FPg0ycde0h0CmmHOyfj0sVNcHQ7ISBsW2w4jEkby6kJAeK9lbujUBzRo8A.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/a33b9a2f-0b4a-424f-be92-cb2348ee95d1_4px-bw84_n0qjgvpszge.jpg"
-          },
-          "URL": "https://www.nomasystems.es/"
-        },
-        "roles": [
-          {
-            "name": "Ingeniero de Software",
-            "startDate": "2020-10-01",
-            "challenges": [
-              {
-                "description": "Actualmente, trabajo como Ingeniero de Software en Nomasystems, empresa coruñesa pero de forma remota desde Oviedo. Estamos creando un producto para una multinacional textil para mejorar el recabado y visualización de la información en las tiendas y así incrementar las ventas y optimizar sus procesos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Kotlin",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Izertis",
           "image": {
             "alt": "Logo Izertis.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/9fbe8845-c36a-4565-931b-5e3c766784b3_logo-izertis.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/1bb17d3e-e1e1-4bf8-83e7-9623c90c1369_9fbe8845-c36a-4565-9.png"
           },
           "URL": "https://www.izertis.com/es/"
         },
@@ -251,6 +211,46 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "ABAMobile",
+          "image": {
+            "alt": "logo-ABAMobile-web.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/675b2f38-7c66-413f-bb6f-afe205bce8ac_099048b2-9d29-4aec-9.png"
+          },
+          "URL": "https://abamobile.com/"
+        },
+        "roles": [
+          {
+            "name": "Programador Senior",
+            "startDate": "2013-03-01",
+            "finishDate": "2018-01-01",
+            "challenges": [
+              {
+                "description": "Durante casi 5 años trabajé en ABAMobile como desarrollador de aplicaciones nativas, tanto Android como iOS en múltiples proyectos para terceros. \nEntre ellos, destaca el catálogo digital de Philips Lighting, donde digitalizamos todo el catálogo de luminarias para Philips Lighting Ibérica primero e internacionalizándolo después en Europa y Norte América.\nTambién aquí colaboré en uno de los proyectos más entretenidos de mi carrera, el robot Next de la editorial Edelvives, consistente en permitir a niños conectarse a un robot y controlarlo mediante secuencias sencillas introducidas en el móvil."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ],
     "publicArtifacts": [
@@ -260,7 +260,7 @@
           "description": "Lanzamiento de la primera versión de Gestion Retail para optimizar la visualización de la información en tiendas de multinacional textil",
           "image": {
             "alt": "ic_launcher.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/6b134fa5-64ec-4d8f-aec7-da87f8af1ae0_ic_launcher.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/1230a410-e16d-462f-af9c-84f28cb60ff9_6b134fa5-64ec-4d8f-a.png"
           }
         },
         "type": "launch",
@@ -274,9 +274,6 @@
             "name": "Kotlin",
             "type": "technology"
           }
-        ],
-        "tags": [
-          ""
         ]
       },
       {
@@ -285,7 +282,7 @@
           "description": "Creación e impartición del curso avanzado de desarrollo de aplicaciones Android en Izertis",
           "image": {
             "alt": "Logo Android.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/d8ce33ab-fd87-406a-a846-185fd5f0d35a_logo-android.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/5b220f58-a866-4b50-87be-7a1b1465a995_d8ce33ab-fd87-406a-a.png"
           }
         },
         "type": "talk",
@@ -310,64 +307,12 @@
       },
       {
         "details": {
-          "name": "Voice to Voice",
-          "description": "Lanzamiento de la funcionalidad Voice to Voice de Talkao Translate para que dos hablantes de distintos idiomas puedan mantener una conversación con traducción en tiempo real",
-          "URL": "https://play.google.com/store/apps/details?id=com.ticktalk.translatevoice",
-          "image": {
-            "alt": "Logo Talkao Translate.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/9f07a0d9-c3f3-49ab-a98f-935370d7a90e_logo-talkao-translat.png"
-          }
-        },
-        "type": "achievement",
-        "publishingDate": "2019-06-01",
-        "relatedCompetences": [
-          {
-            "name": "Kotlin",
-            "type": "technology"
-          },
-          {
-            "name": "Android",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          ""
-        ]
-      },
-      {
-        "details": {
-          "name": "Next 2.0",
-          "description": "Aplicación móvil Android para que niños controlen un robot con el teléfono o tablet con secuencias sencillas aprendiendo conceptos básicos de programación.",
-          "URL": "https://play.google.com/store/apps/details?id=com.edelvives.nextapp20",
-          "image": {
-            "alt": "118642_Cub_next2_web.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/13/aa2342e3-54fe-4d46-8ee4-cbb3ba2ba002_118642_cub_next2_web.jpeg"
-          }
-        },
-        "type": "launch",
-        "publishingDate": "2017-09-01",
-        "relatedCompetences": [
-          {
-            "name": "Android",
-            "type": "technology"
-          },
-          {
-            "name": "JAVA",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          ""
-        ]
-      },
-      {
-        "details": {
           "name": "Emulsa SAE",
           "description": "Despliegue de dispositivos embarcados en los vehículos limpiadores y los camiones de recogida de basura de Gijón para optimización de rutas. Control de vaciado de contenedores con la instalación de etiquetas RFID en cada uno de ellos así como lectores en todos los camiones.",
           "URL": "https://www.gijon.es/es/directorio/empresa-municipal-de-servicios-de-medio-ambiente-urbano-de-gijon-sa-emulsa",
           "image": {
             "alt": "Logo Emulsa.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/6514bcf8-c2e9-4770-97ed-bbd2920da3fb_logo-emulsa.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/c8d2047e-1e88-4c54-8bc7-93d4a8e0de0c_6514bcf8-c2e9-4770-9.jpg"
           }
         },
         "type": "launch",
@@ -381,9 +326,52 @@
             "name": "RFID",
             "type": "technology"
           }
-        ],
-        "tags": [
-          ""
+        ]
+      },
+      {
+        "details": {
+          "name": "Next 2.0",
+          "description": "Aplicación móvil Android para que niños controlen un robot con el teléfono o tablet con secuencias sencillas aprendiendo conceptos básicos de programación.",
+          "URL": "https://play.google.com/store/apps/details?id=com.edelvives.nextapp20",
+          "image": {
+            "alt": "118642_Cub_next2_web.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/3278773c-78d1-49e6-8d24-ac17eb8ae7c5_aa2342e3-54fe-4d46-8.jpeg"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2017-09-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Voice to Voice",
+          "description": "Lanzamiento de la funcionalidad Voice to Voice de Talkao Translate para que dos hablantes de distintos idiomas puedan mantener una conversación con traducción en tiempo real",
+          "URL": "https://play.google.com/store/apps/details?id=com.ticktalk.translatevoice",
+          "image": {
+            "alt": "Logo Talkao Translate.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/14/c6ffae06-1cfd-49e5-b1dd-3a6500313adf_9f07a0d9-c3f3-49ab-a.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2019-06-01",
+        "relatedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          },
+          {
+            "name": "Android",
+            "type": "technology"
+          }
         ]
       }
     ]
