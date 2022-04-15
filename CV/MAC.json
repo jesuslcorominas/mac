@@ -514,16 +514,16 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Aprendizaje de Objective-C",
-        "startDate": "2013-01-01",
-        "finishDate": "2013-01-01",
+        "name": "Iniciación al desarrollo de aplicaciones iOS",
+        "startDate": "2013-02-01",
+        "finishDate": "2013-03-01",
         "institution": {
           "name": "Fundación UNED",
-          "description": "Curso de iniciación al lenguaje Objective-C orientado al desarrollo de aplicaciones iOS",
+          "description": "Curso de 60 horas de formación de iniciación al desarrollo de aplicaciones iOS con Objective-C",
           "URL": "https://www.fundacion.uned.es/",
           "image": {
             "alt": "Logo Fundación UNED.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/840ad9f9-5f6a-4dac-b817-2ed3cac5e841_logo-fundacion-uned.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/7c09b8b8-896b-4743-ab55-32538a3dc0e8_logo-fundacion-uned.jpg"
           }
         },
         "linkedCompetences": [
@@ -544,16 +544,16 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Iniciación al desarrollo de aplicaciones iOS",
-        "startDate": "2013-02-01",
-        "finishDate": "2013-03-01",
+        "name": "Aprendizaje de Objective-C",
+        "startDate": "2013-01-01",
+        "finishDate": "2013-01-01",
         "institution": {
           "name": "Fundación UNED",
-          "description": "Curso de 60 horas de formación de iniciación al desarrollo de aplicaciones iOS con Objective-C",
+          "description": "Curso de 25 horas de formación de iniciación al lenguaje Objective-C orientado al desarrollo de aplicaciones iOS",
           "URL": "https://www.fundacion.uned.es/",
           "image": {
             "alt": "Logo Fundación UNED.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/7c09b8b8-896b-4743-ab55-32538a3dc0e8_logo-fundacion-uned.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/840ad9f9-5f6a-4dac-b817-2ed3cac5e841_logo-fundacion-uned.jpg"
           }
         },
         "linkedCompetences": [
