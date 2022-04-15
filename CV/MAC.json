@@ -443,6 +443,39 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Máster Java, J2EE, XML",
+        "startDate": "2007-09-01",
+        "finishDate": "2008-06-01",
+        "institution": {
+          "name": "Syncrom Informática",
+          "description": "Máster de 750 horas de formación en Java, J2EE y XML impartido por Syncrom Informática",
+          "image": {
+            "alt": "Logo Syncrom.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/2f4927b9-a02e-456e-86ab-deec03d06cce_logo-syncrom.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          },
+          {
+            "name": "AJAX",
+            "type": "technology"
+          },
+          {
+            "name": "J2EE",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
