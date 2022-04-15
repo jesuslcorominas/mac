@@ -600,6 +600,40 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Kotlin para desarrolladores Android",
+        "startDate": "2017-06-01",
+        "finishDate": "2017-06-01",
+        "institution": {
+          "name": "DevExperto",
+          "description": "Bootcamp de 10 horas de inicación al lenguaje Kotlin orientado al desarrollo de aplicaciones Android",
+          "URL": "https://devexperto.com/curso-kotlin-online/",
+          "image": {
+            "alt": "Logo Kotlin para desarrolladores Android.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/99ff7bd3-3cd0-4c26-bdd0-98218bed4717_logo-kotlin-para-des.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          },
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Android SDK",
+            "type": "technology"
+          },
+          {
+            "name": "Android Studio",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
