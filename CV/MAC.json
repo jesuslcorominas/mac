@@ -570,6 +570,36 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo avanzado de aplicaciones iOS",
+        "startDate": "2013-05-01",
+        "finishDate": "2010-06-01",
+        "institution": {
+          "name": "Fundación UNED",
+          "description": "Curso de 60 horas de formación de desarrollo avanzado de aplicaciones iOS con Objective-C",
+          "URL": "https://www.fundacion.uned.es/",
+          "image": {
+            "alt": "Logo Fundación UNED.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/93cf619f-87eb-42a9-9daa-ff8799183a19_logo-fundacion-uned.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "iOS",
+            "type": "technology"
+          },
+          {
+            "name": "Objective-C",
+            "type": "technology"
+          },
+          {
+            "name": "XCode",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
