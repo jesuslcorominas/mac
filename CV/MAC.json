@@ -704,6 +704,36 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Architect Coders",
+        "startDate": "2019-11-01",
+        "finishDate": "2018-02-01",
+        "institution": {
+          "name": "DevExperto",
+          "description": "80 horas de formación avanzada de desarrollo de aplicaciones Android con Kotlin",
+          "URL": "https://architectcoders.com/",
+          "image": {
+            "alt": "Logo Architect Coders.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/c41c0c70-9e53-48fa-af37-bbc59061fabf_logo-architect-coder.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          },
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Android SDK",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
