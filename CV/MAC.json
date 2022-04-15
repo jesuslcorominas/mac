@@ -540,6 +540,36 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Iniciación al desarrollo de aplicaciones iOS",
+        "startDate": "2013-02-01",
+        "finishDate": "2013-03-01",
+        "institution": {
+          "name": "Fundación UNED",
+          "description": "Curso de 60 horas de formación de iniciación al desarrollo de aplicaciones iOS con Objective-C",
+          "URL": "https://www.fundacion.uned.es/",
+          "image": {
+            "alt": "Logo Fundación UNED.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/7c09b8b8-896b-4743-ab55-32538a3dc0e8_logo-fundacion-uned.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "iOS",
+            "type": "technology"
+          },
+          {
+            "name": "Objective-C",
+            "type": "technology"
+          },
+          {
+            "name": "XCode",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
