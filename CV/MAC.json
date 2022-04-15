@@ -682,6 +682,28 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Kotlin Bootcamp for Programmers",
+        "startDate": "2019-06-01",
+        "finishDate": "2018-07-01",
+        "institution": {
+          "name": "Udacity",
+          "description": "Bootcamp de 50 horas de formación del lenguaje de programación Kotlin",
+          "URL": "https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011",
+          "image": {
+            "alt": "Logo Udacity.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/8e339b04-bdde-4606-b12b-3f75213b987e_logo-udacity.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
