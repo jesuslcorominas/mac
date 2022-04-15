@@ -734,6 +734,36 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Compose Expert",
+        "startDate": "2021-10-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "DevExperto",
+          "description": "Formación en Compose, el nuevo sistema de vistas de Android",
+          "URL": "https://compose.expert/",
+          "image": {
+            "alt": "Logo Compose Expert.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/7df27a1c-d286-4225-a84e-cf265d07a3b8_logo-compose-expert.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          },
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "JetPack",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
