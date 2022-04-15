@@ -476,6 +476,40 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo de aplicaciones Android",
+        "startDate": "2012-09-01",
+        "finishDate": "2012-01-01",
+        "institution": {
+          "name": "Seas y Universidad Católica de Ávila",
+          "description": "Curso de 150 horas de formación en desarrollo de aplicaciones nativas Android impartido por Seas y la Univerdad Católica de Ávila",
+          "URL": "https://www.seas.es/",
+          "image": {
+            "alt": "Logo Seas.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/8ce67715-52d0-4c10-9fd7-6f5b75f9dbc1_logo-seas.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Android SDK",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
