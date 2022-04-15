@@ -634,6 +634,32 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Firebase in a weekend",
+        "startDate": "2018-09-01",
+        "finishDate": "2018-09-01",
+        "institution": {
+          "name": "Udacity",
+          "description": "Curso de 15 horas de formación de iniciación al uso de Firebase en Android",
+          "URL": "https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352",
+          "image": {
+            "alt": "Logo Udacity.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/1714569b-7f46-4100-ac92-a947dba217fc_logo-udacity.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Firebase",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
