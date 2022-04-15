@@ -660,6 +660,28 @@
             "type": "technology"
           }
         ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Java Reactive Programming with RxJava2",
+        "startDate": "2019-06-01",
+        "finishDate": "2016-06-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Curso de 10 horas de formación de iniciación a la programación reactiva",
+          "URL": "https://www.udemy.com/course/master-java-reactive-programming-with-rxjava-2/",
+          "image": {
+            "alt": "Logo Udemy.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/862231b1-53ad-491d-ae8d-e7905f0baa22_logo-udemy.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "RxJava",
+            "type": "technology"
+          }
+        ]
       }
     ]
   },
