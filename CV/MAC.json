@@ -147,42 +147,6 @@
       },
       {
         "organization": {
-          "name": "Talkao",
-          "image": {
-            "alt": "logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/19485bae-bd97-49f4-b889-85eb285efb90_c000ef02-31e3-4aba-a.png"
-          },
-          "URL": "https://www.talkao.com/"
-        },
-        "roles": [
-          {
-            "name": "Analista Programador",
-            "startDate": "2018-09-01",
-            "finishDate": "2020-10-01",
-            "challenges": [
-              {
-                "description": "En Talkao trabajé durante más de dos años en productos internos de la empresa, aplicaciones de traducción en múltiples formatos, como texto, hablado, reconocimiento de imágenes o de texto."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Kotlin",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Capgemini",
           "image": {
             "alt": "2560px-Capgemini_201x_logo.svg.png",
@@ -240,6 +204,42 @@
               }
             ],
             "competences": [
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Talkao",
+          "image": {
+            "alt": "Logo Talkao.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/4d934445-3d23-469b-abea-abb7117f0217_logo-talkao.png"
+          },
+          "URL": "https://www.talkao.com/"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2018-09-01",
+            "finishDate": "2020-10-01",
+            "challenges": [
+              {
+                "description": "En Talkao trabajé durante más de dos años en productos internos de la empresa, aplicaciones de traducción en múltiples formatos, como texto, hablado, reconocimiento de imágenes o de texto."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
               {
                 "name": "Kotlin",
                 "type": "technology"
