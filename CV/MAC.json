@@ -183,37 +183,6 @@
       },
       {
         "organization": {
-          "name": "Nomasystems",
-          "image": {
-            "alt": "4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2RSuDrT2FPg0ycde0h0CmmHOyfj0sVNcHQ7ISBsW2w4jEkby6kJAeK9lbujUBzRo8A.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/4e00eb2c-2751-467e-b88a-e69791017aa9_86b1fe8e-6490-4fbe-8.jpg"
-          },
-          "URL": "https://www.nomasystems.es/"
-        },
-        "roles": [
-          {
-            "name": "Ingeniero de Software",
-            "startDate": "2020-10-01",
-            "challenges": [
-              {
-                "description": "Actualmente, trabajo como Ingeniero de Software en Nomasystems, empresa coruñesa pero de forma remota desde Oviedo. Estamos creando un producto para una multinacional textil para mejorar el recabado y visualización de la información en las tiendas y así incrementar las ventas y optimizar sus procesos."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Kotlin",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Capgemini",
           "image": {
             "alt": "2560px-Capgemini_201x_logo.svg.png",
@@ -242,6 +211,37 @@
               },
               {
                 "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "Android",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nomasystems",
+          "image": {
+            "alt": "Logo Nomasystems.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/22e376e8-c670-45ab-bdc8-66c81a42d6bd_logo-nomasystems.jpg"
+          },
+          "URL": "https://www.nomasystems.es/"
+        },
+        "roles": [
+          {
+            "name": "Ingeniero de Software",
+            "startDate": "2020-10-01",
+            "challenges": [
+              {
+                "description": "Actualmente, trabajo como Ingeniero de Software en Nomasystems, empresa coruñesa pero de forma remota desde Oviedo. Estamos creando un producto para una multinacional textil para mejorar el recabado y visualización de la información en las tiendas y así incrementar las ventas y optimizar sus procesos."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Kotlin",
                 "type": "technology"
               },
               {
