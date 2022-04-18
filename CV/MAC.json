@@ -75,38 +75,6 @@
       },
       {
         "organization": {
-          "name": "Treelogic",
-          "image": {
-            "alt": "1600px-Logo_treelogic_recortado.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/0d248e4b-6463-4d7c-8fc2-3a3a59fdd50e_e659a88d-004e-4edf-8.jpeg"
-          },
-          "URL": "https://www.treelogic.com/es/index.html"
-        },
-        "roles": [
-          {
-            "name": "Programador Junior",
-            "startDate": "2010-02-01",
-            "finishDate": "2012-08-01",
-            "challenges": [
-              {
-                "description": "Empecé mi carrera trabajando en Treelogic en la parte móvil de aplicaciones de gestión y seguimiento de flotas con Windows Mobile y Mobile Devices (dispositivos embarcados programados con Java).\nParticipé en el desarrollo de proyectos como la gestión de la flota de taxis de Lisboa, el servicio de recogida de basuras de Gijón o la cadena de supermercados Alimerka, tanto para el seguimiento de camiones como la aplicación de los repartidores a domicilio."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "C#",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Capgemini",
           "image": {
             "alt": "Logo Capgemini.png",
@@ -246,6 +214,38 @@
               },
               {
                 "name": "Android",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Treelogic",
+          "image": {
+            "alt": "Logo Treelogic.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/b6f964c1-e127-4ab4-b35e-f29db293755f_logo-treelogic.jpeg"
+          },
+          "URL": "https://www.treelogic.com/es/index.html"
+        },
+        "roles": [
+          {
+            "name": "Programador Junior",
+            "startDate": "2010-02-01",
+            "finishDate": "2012-08-01",
+            "challenges": [
+              {
+                "description": "Empecé mi carrera trabajando en Treelogic en la parte móvil de aplicaciones de gestión y seguimiento de flotas con Windows Mobile y Mobile Devices (dispositivos embarcados programados con Java).\nParticipé en el desarrollo de proyectos como la gestión de la flota de taxis de Lisboa, el servicio de recogida de basuras de Gijón o la cadena de supermercados Alimerka, tanto para el seguimiento de camiones como la aplicación de los repartidores a domicilio."
+              }
+            ],
+            "competences": [
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "C#",
                 "type": "technology"
               }
             ]
