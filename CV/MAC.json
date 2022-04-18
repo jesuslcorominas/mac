@@ -256,28 +256,6 @@
     "publicArtifacts": [
       {
         "details": {
-          "name": "Gestion Retail",
-          "description": "Lanzamiento de la primera versión de Gestion Retail para optimizar la visualización de la información en tiendas de multinacional textil",
-          "image": {
-            "alt": "ic_launcher.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/7e80d34f-56f5-4e0c-8cad-d8235b8e29e6_ef862bc4-2cc3-4df7-b.png"
-          }
-        },
-        "type": "launch",
-        "publishingDate": "2021-07-01",
-        "relatedCompetences": [
-          {
-            "name": "Android",
-            "type": "technology"
-          },
-          {
-            "name": "Kotlin",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
           "name": "Next 2.0",
           "description": "Aplicación móvil Android para que niños controlen un robot con el teléfono o tablet con secuencias sencillas aprendiendo conceptos básicos de programación.",
           "URL": "https://play.google.com/store/apps/details?id=com.edelvives.nextapp20",
@@ -326,6 +304,32 @@
         ],
         "tags": [
           "Formación"
+        ]
+      },
+      {
+        "details": {
+          "name": "Gestion Retail",
+          "description": "Lanzamiento de la primera versión de Gestion Retail para optimizar la visualización de la información en tiendas de multinacional textil",
+          "URL": "",
+          "image": {
+            "alt": "Icono Gestión Retail.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/2b96ba4a-694a-46ba-9d7a-10cf9023108d_icono-gestion-retail.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2021-07-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          ""
         ]
       },
       {
