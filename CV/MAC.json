@@ -12,7 +12,7 @@
       "description": "Llegué al desarrollo algo tarde, después de haber pasado unos años en químicas primero y otros en biología hasta decidir que no era para mí.\n \nCon 26 años, hice el módulo de Desarrollo de Aplicaciones Informáticas y al terminar empecé a trabajar en Treelogic, donde pasé aproximadamente dos años y medio creando la parte móvil de aplicaciones de gestión y seguimiento de flotas para dispositivos con Windows Mobile, Windows CE y Mobile Devices (dispositivos de seguimiento programados en Java). Entre otras, hicimos aplicaciones para los supermercados Alimerka, los taxis de Lisboa o el servicio de limpieza y recogida de basuras de Gijón. \n\nAunque todas estas plataformas ya están más que desfasadas, sí que me sirvió para ir conociendo el desarrollo móvil y saber que era a lo que me quería dedicar. \n\nDespués estuve casi 5 años en ABAMobile, donde creaba aplicaciones nativas Android e iOS para clientes como Philips Lighting, digitalizando y modernizando su catálogo o Edelvives, con una aplicación que permite a niños controlar y programar un robot con un teléfono o una tablet. \n\nAdemás, en ABAMobile pude desarrollar e impartir varios cursos de iniciación a la programación en Android.\n\nTras esto, pasé 8 meses en Capgemini ayudando a lanzar un nuevo equipo de movilidad, colaborando en la definición de la arquitectura Android a utilizar y creando también aplicaciones para terceros, como Correos Express y aplicaciones de uso interno a la empresa.\n\nDespués de ese breve tiempo por una gran consultora, pasé 2 años en  desarrollo de producto con Talkao, con sede en Málaga pero de forma 100% remota desde Oviedo. Teníamos diversas aplicaciones propias de traducción cuya parte Android contribuía a mantener y agregar nuevas funcionalidades.\n\nFinalmente, en noviembre de 2020 empecé a trabajar en Nomasystems, empresa coruñesa pero manteniendo el trabajo remoto, en un proyecto para Inditex, mejorando y agilizando la obtención de información para incrementar las ventas y optimizar la gestión de las tiendas.",
       "avatar": {
         "alt": "Avatar de Jesús L Corominas de South Park.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/f8140369-6151-4036-b2cd-5407583c5fe5_avatar-de-jesus-l-co.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/d246f0d0-a2fc-4530-91f7-f37a69a8be2d_f8140369-6151-4036-b.png"
       },
       "location": {
         "notes": "Oviedo"
@@ -20,12 +20,12 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/jesus-lopez-corominas-34a5171a/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/jesuslcorominas"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jesus-lopez-corominas-34a5171a/"
       }
     ],
     "interestingFacts": [
@@ -39,86 +39,10 @@
     "jobs": [
       {
         "organization": {
-          "name": "Izertis",
-          "image": {
-            "alt": "Logo Izertis.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/d8b0a229-52d6-4f38-88ac-61745f6e0b9a_9bbe6182-e64a-4d07-a.png"
-          },
-          "URL": "https://www.izertis.com/es/"
-        },
-        "roles": [
-          {
-            "name": "Formador",
-            "startDate": "2014-01-01",
-            "finishDate": "2014-04-01",
-            "challenges": [
-              {
-                "description": "En 2014 creé e impartí sendos cursos de introducción y desarrollo avanzado de aplicaciones Android  para Izertis"
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              },
-              {
-                "name": "Android SDK",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Capgemini",
-          "image": {
-            "alt": "Logo Capgemini.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/67cee8df-3cf5-4de0-87b7-12f869e6a99d_logo-capgemini.png"
-          },
-          "URL": "https://www.capgemini.com/es-es/"
-        },
-        "roles": [
-          {
-            "name": "Analista Programador",
-            "startDate": "2018-01-01",
-            "finishDate": "2018-08-01",
-            "challenges": [
-              {
-                "description": "Durante 8 meses trabajé en la consultora Capgemini ayudando a lanzar el equipo de movilidad para la factoría de Asturias, colaborando en la definición de la arquitectura y patrones a utilizar en las aplicaciones a desarrollar, tanto internas como para terceros."
-              }
-            ],
-            "competences": [
-              {
-                "name": "JAVA",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
-                "type": "technology"
-              },
-              {
-                "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "Android",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Nomasystems",
           "image": {
             "alt": "Logo Nomasystems.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/22e376e8-c670-45ab-bdc8-66c81a42d6bd_logo-nomasystems.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/15835052-5e9b-46c4-86ed-cbe0737cb2c3_22e376e8-c670-45ab-b.jpg"
           },
           "URL": "https://www.nomasystems.es/"
         },
@@ -133,11 +57,11 @@
             ],
             "competences": [
               {
-                "name": "Kotlin",
+                "name": "Android",
                 "type": "technology"
               },
               {
-                "name": "Android",
+                "name": "Kotlin",
                 "type": "technology"
               }
             ]
@@ -149,7 +73,7 @@
           "name": "Talkao",
           "image": {
             "alt": "Logo Talkao.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/4d934445-3d23-469b-abea-abb7117f0217_logo-talkao.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/9f785597-2d7e-4c8b-8641-fe39a4eb8338_4d934445-3d23-469b-a.png"
           },
           "URL": "https://www.talkao.com/"
         },
@@ -165,15 +89,91 @@
             ],
             "competences": [
               {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
                 "name": "JAVA",
                 "type": "technology"
               },
               {
                 "name": "Kotlin",
                 "type": "technology"
-              },
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Capgemini",
+          "image": {
+            "alt": "Logo Capgemini.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/6045fe9b-aad1-4f32-8ede-5440f32fa6bb_67cee8df-3cf5-4de0-8.png"
+          },
+          "URL": "https://www.capgemini.com/es-es/"
+        },
+        "roles": [
+          {
+            "name": "Analista Programador",
+            "startDate": "2018-01-01",
+            "finishDate": "2018-08-01",
+            "challenges": [
+              {
+                "description": "Durante 8 meses trabajé en la consultora Capgemini ayudando a lanzar el equipo de movilidad para la factoría de Asturias, colaborando en la definición de la arquitectura y patrones a utilizar en las aplicaciones a desarrollar, tanto internas como para terceros."
+              }
+            ],
+            "competences": [
               {
                 "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "Objective-C",
+                "type": "technology"
+              },
+              {
+                "name": "iOS",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Izertis",
+          "image": {
+            "alt": "Logo Izertis.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/fdb00f4a-372e-4ef5-aabd-847c35ac8229_d8b0a229-52d6-4f38-8.png"
+          },
+          "URL": "https://www.izertis.com/es/"
+        },
+        "roles": [
+          {
+            "name": "Formador",
+            "startDate": "2014-01-01",
+            "finishDate": "2014-04-01",
+            "challenges": [
+              {
+                "description": "En 2014 creé e impartí sendos cursos de introducción y desarrollo avanzado de aplicaciones Android  para Izertis"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Android",
+                "type": "technology"
+              },
+              {
+                "name": "Android SDK",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
                 "type": "technology"
               }
             ]
@@ -185,7 +185,7 @@
           "name": "ABAMobile",
           "image": {
             "alt": "Logo ABAMobile.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/5050a028-05ad-4bbb-a45d-8b37d1c35eec_logo-abamobile.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/4432d174-1406-4b04-8a3b-9997e34000f8_5050a028-05ad-4bbb-a.png"
           },
           "URL": "https://abamobile.com/"
         },
@@ -201,11 +201,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "Android",
                 "type": "technology"
               },
               {
-                "name": "iOS",
+                "name": "JAVA",
                 "type": "technology"
               },
               {
@@ -213,7 +213,7 @@
                 "type": "technology"
               },
               {
-                "name": "Android",
+                "name": "iOS",
                 "type": "technology"
               }
             ]
@@ -225,7 +225,7 @@
           "name": "Treelogic",
           "image": {
             "alt": "Logo Treelogic.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/b6f964c1-e127-4ab4-b35e-f29db293755f_logo-treelogic.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/8ded3451-3f71-42cd-a0a2-9c27e0c52d0f_b6f964c1-e127-4ab4-b.jpeg"
           },
           "URL": "https://www.treelogic.com/es/index.html"
         },
@@ -241,11 +241,11 @@
             ],
             "competences": [
               {
-                "name": "JAVA",
+                "name": "C#",
                 "type": "technology"
               },
               {
-                "name": "C#",
+                "name": "JAVA",
                 "type": "technology"
               }
             ]
@@ -256,12 +256,57 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "Gestion Retail",
+          "description": "Lanzamiento de la primera versión de Gestion Retail para optimizar la visualización de la información en tiendas de multinacional textil",
+          "image": {
+            "alt": "Icono Gestión Retail.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/5c46b478-33d4-4d8e-b3c6-6a29c375b6aa_2b96ba4a-694a-46ba-9.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2021-07-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Voice to Voice",
+          "description": "Lanzamiento de la funcionalidad Voice to Voice de Talkao Translate para que dos hablantes de distintos idiomas puedan mantener una conversación con traducción en tiempo real",
+          "URL": "https://play.google.com/store/apps/details?id=com.ticktalk.translatevoice",
+          "image": {
+            "alt": "Logo Talkao Translate.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/7e50d7f5-a5a9-4466-9b31-ab442675094f_7296c9f3-e3bb-4761-b.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2019-06-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Next 2.0",
           "description": "Aplicación móvil Android para que niños controlen un robot con el teléfono o tablet con secuencias sencillas aprendiendo conceptos básicos de programación.",
           "URL": "https://play.google.com/store/apps/details?id=com.edelvives.nextapp20",
           "image": {
             "alt": "118642_Cub_next2_web.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/9bbcded1-21cd-4917-a029-01014ffa2aa8_68c3b7f9-2d1a-4459-9.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/b17f402b-f93e-4406-a905-ad31ebd7f5e0_9bbcded1-21cd-4917-a.jpeg"
           }
         },
         "type": "launch",
@@ -283,7 +328,7 @@
           "description": "Creación e impartición del curso avanzado de desarrollo de aplicaciones Android en Izertis",
           "image": {
             "alt": "Logo Android.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/3a6e9952-8af6-4222-9c19-b0766521e0d5_59091d5c-d641-4ba2-b.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/36b9af5a-0514-4451-891d-4f6276dca8d9_3a6e9952-8af6-4222-9.png"
           }
         },
         "type": "talk",
@@ -308,37 +353,12 @@
       },
       {
         "details": {
-          "name": "Gestion Retail",
-          "description": "Lanzamiento de la primera versión de Gestion Retail para optimizar la visualización de la información en tiendas de multinacional textil",
-          "image": {
-            "alt": "Icono Gestión Retail.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/18/2b96ba4a-694a-46ba-9d7a-10cf9023108d_icono-gestion-retail.png"
-          }
-        },
-        "type": "launch",
-        "publishingDate": "2021-07-01",
-        "relatedCompetences": [
-          {
-            "name": "Android",
-            "type": "technology"
-          },
-          {
-            "name": "Kotlin",
-            "type": "technology"
-          }
-        ],
-        "tags": [
-          ""
-        ]
-      },
-      {
-        "details": {
           "name": "Emulsa SAE",
           "description": "Despliegue de dispositivos embarcados en los vehículos limpiadores y los camiones de recogida de basura de Gijón para optimización de rutas. Control de vaciado de contenedores con la instalación de etiquetas RFID en cada uno de ellos así como lectores en todos los camiones.",
           "URL": "https://www.gijon.es/es/directorio/empresa-municipal-de-servicios-de-medio-ambiente-urbano-de-gijon-sa-emulsa",
           "image": {
             "alt": "Logo Emulsa.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/aaaff15f-4594-422e-b599-cb553efffb21_a5175e3a-5689-4725-b.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/a2bb6d3e-eff4-49b4-b6ea-92d539a631df_aaaff15f-4594-422e-b.jpg"
           }
         },
         "type": "launch",
@@ -350,29 +370,6 @@
           },
           {
             "name": "RFID",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Voice to Voice",
-          "description": "Lanzamiento de la funcionalidad Voice to Voice de Talkao Translate para que dos hablantes de distintos idiomas puedan mantener una conversación con traducción en tiempo real",
-          "URL": "https://play.google.com/store/apps/details?id=com.ticktalk.translatevoice",
-          "image": {
-            "alt": "Logo Talkao Translate.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/7296c9f3-e3bb-4761-b9df-aba911a7623c_d86770eb-48d7-438d-a.png"
-          }
-        },
-        "type": "achievement",
-        "publishingDate": "2019-06-01",
-        "relatedCompetences": [
-          {
-            "name": "Kotlin",
-            "type": "technology"
-          },
-          {
-            "name": "Android",
             "type": "technology"
           }
         ]
@@ -421,143 +418,6 @@
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Iniciación al desarrollo de aplicaciones iOS",
-        "startDate": "2013-02-01",
-        "finishDate": "2013-03-01",
-        "institution": {
-          "name": "Fundación UNED",
-          "description": "Curso de 60 horas de formación de iniciación al desarrollo de aplicaciones iOS con Objective-C",
-          "URL": "https://www.fundacion.uned.es/",
-          "image": {
-            "alt": "Logo Fundación UNED.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/e1ecf792-0b04-41d3-88bb-f8dd80b90a2b_7c09b8b8-896b-4743-a.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "iOS",
-            "type": "technology"
-          },
-          {
-            "name": "Objective-C",
-            "type": "technology"
-          },
-          {
-            "name": "XCode",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Desarrollo de aplicaciones Android",
-        "startDate": "2012-09-01",
-        "finishDate": "2013-01-01",
-        "institution": {
-          "name": "Seas y Universidad Católica de Ávila",
-          "description": "Curso de 150 horas de formación en desarrollo de aplicaciones nativas Android impartido por Seas y la Univerdad Católica de Ávila",
-          "URL": "https://www.seas.es/",
-          "image": {
-            "alt": "Logo Seas.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/71e4aa0f-ade7-41c9-9161-21ef6d93a287_8ce67715-52d0-4c10-9.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "Android",
-            "type": "technology"
-          },
-          {
-            "name": "Android SDK",
-            "type": "technology"
-          },
-          {
-            "name": "XML",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Java Reactive Programming with RxJava2",
-        "startDate": "2019-06-01",
-        "finishDate": "2019-06-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "Curso de 10 horas de formación de iniciación a la programación reactiva",
-          "URL": "https://www.udemy.com/course/master-java-reactive-programming-with-rxjava-2/",
-          "image": {
-            "alt": "Logo Udemy.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/a99a1e79-3315-4eab-b482-d1f439760520_862231b1-53ad-491d-a.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "RxJava",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
-        "startDate": "2005-09-01",
-        "finishDate": "2007-06-01",
-        "institution": {
-          "name": "IES Monte Naranco",
-          "description": "Técnico superior en desarrollo de aplicaciones informáticas donde adquirí los conocimientos básicos de programación y desarrollo",
-          "image": {
-            "alt": "Logo Instituto Enseñanza Secundaria Monte Naranco.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/d5db7a49-050f-4c5c-92b4-d629f0e0d9b7_0fa79588-1ab0-4b5f-a.png"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
-          },
-          {
-            "name": "MySQL",
-            "type": "technology"
-          },
-          {
-            "name": "Visual Basic",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Kotlin Bootcamp for Programmers",
-        "startDate": "2019-06-01",
-        "finishDate": "2019-07-01",
-        "institution": {
-          "name": "Udacity",
-          "description": "Bootcamp de 50 horas de formación del lenguaje de programación Kotlin",
-          "URL": "https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011",
-          "image": {
-            "alt": "Logo Udacity.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/0b452ed9-a7f2-4cb5-8b37-83d6c57105ae_8e339b04-bdde-4606-b.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Kotlin",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
         "name": "Compose Expert",
         "startDate": "2021-10-01",
         "finishDate": "2022-03-01",
@@ -567,14 +427,10 @@
           "URL": "https://compose.expert/",
           "image": {
             "alt": "Logo Compose Expert.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/f3433b20-6ec9-4ddd-a652-47dde02d7352_7df27a1c-d286-4225-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/25eed72c-0485-4664-9621-b39a751eb072_f3433b20-6ec9-4ddd-a.png"
           }
         },
         "linkedCompetences": [
-          {
-            "name": "Kotlin",
-            "type": "technology"
-          },
           {
             "name": "Android",
             "type": "technology"
@@ -582,64 +438,9 @@
           {
             "name": "JetPack",
             "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Máster Java, J2EE, XML",
-        "startDate": "2007-09-01",
-        "finishDate": "2008-06-01",
-        "institution": {
-          "name": "Syncrom Informática",
-          "description": "Máster de 750 horas de formación en Java, J2EE y XML impartido por Syncrom Informática",
-          "image": {
-            "alt": "Logo Syncrom.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/c1d7d7f6-3287-4f88-84f1-be57dad3f1d6_2f4927b9-a02e-456e-8.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JAVA",
-            "type": "technology"
           },
           {
-            "name": "XML",
-            "type": "technology"
-          },
-          {
-            "name": "AJAX",
-            "type": "technology"
-          },
-          {
-            "name": "J2EE",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Firebase in a weekend",
-        "startDate": "2018-09-01",
-        "finishDate": "2018-09-01",
-        "institution": {
-          "name": "Udacity",
-          "description": "Curso de 15 horas de formación de iniciación al uso de Firebase en Android",
-          "URL": "https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352",
-          "image": {
-            "alt": "Logo Udacity.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/0899c8da-785c-4fd3-9daa-7717c4e00e4a_1714569b-7f46-4100-a.jpg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "Android",
-            "type": "technology"
-          },
-          {
-            "name": "Firebase",
+            "name": "Kotlin",
             "type": "technology"
           }
         ]
@@ -656,14 +457,10 @@
           "URL": "https://architectcoders.com/",
           "image": {
             "alt": "Logo Architect Coders.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/057b41ef-4fb7-42b8-ab40-661196cd5f6b_c41c0c70-9e53-48fa-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/936410a3-1586-4750-91eb-15963d76c9a5_057b41ef-4fb7-42b8-a.png"
           }
         },
         "linkedCompetences": [
-          {
-            "name": "Kotlin",
-            "type": "technology"
-          },
           {
             "name": "Android",
             "type": "technology"
@@ -671,35 +468,79 @@
           {
             "name": "Android SDK",
             "type": "technology"
+          },
+          {
+            "name": "Kotlin",
+            "type": "technology"
           }
         ]
       },
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
-        "name": "Desarrollo avanzado de aplicaciones iOS",
-        "startDate": "2013-05-01",
-        "finishDate": "2013-06-01",
+        "name": "Kotlin Bootcamp for Programmers",
+        "startDate": "2019-06-01",
+        "finishDate": "2019-07-01",
         "institution": {
-          "name": "Fundación UNED",
-          "description": "Curso de 60 horas de formación de desarrollo avanzado de aplicaciones iOS con Objective-C",
-          "URL": "https://www.fundacion.uned.es/",
+          "name": "Udacity",
+          "description": "Bootcamp de 50 horas de formación del lenguaje de programación Kotlin",
+          "URL": "https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011",
           "image": {
-            "alt": "Logo Fundación UNED.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/1862d70f-0fbc-4408-a0b1-d375cb59d4e4_93cf619f-87eb-42a9-9.jpg"
+            "alt": "Logo Udacity.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/e21c2535-7498-4f1b-b2a1-a406a3651be3_0b452ed9-a7f2-4cb5-8.jpg"
           }
         },
         "linkedCompetences": [
           {
-            "name": "iOS",
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Java Reactive Programming with RxJava2",
+        "startDate": "2019-06-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "Curso de 10 horas de formación de iniciación a la programación reactiva",
+          "URL": "https://www.udemy.com/course/master-java-reactive-programming-with-rxjava-2/",
+          "image": {
+            "alt": "Logo Udemy.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/22fc2fa9-1083-435d-be52-167ed01e26e8_a99a1e79-3315-4eab-b.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "RxJava",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Firebase in a weekend",
+        "startDate": "2018-09-01",
+        "finishDate": "2018-09-01",
+        "institution": {
+          "name": "Udacity",
+          "description": "Curso de 15 horas de formación de iniciación al uso de Firebase en Android",
+          "URL": "https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352",
+          "image": {
+            "alt": "Logo Udacity.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/06eaab1f-7fb5-44e7-b2eb-ef1f53ba1bb6_0899c8da-785c-4fd3-9.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android",
             "type": "technology"
           },
           {
-            "name": "Objective-C",
-            "type": "technology"
-          },
-          {
-            "name": "XCode",
+            "name": "Firebase",
             "type": "technology"
           }
         ]
@@ -716,14 +557,10 @@
           "URL": "https://devexperto.com/curso-kotlin-online/",
           "image": {
             "alt": "Logo Kotlin para desarrolladores Android.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/f9802a41-1c1b-46aa-a68b-56ac0ebc91b7_99ff7bd3-3cd0-4c26-b.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/c88ecb5d-3883-40dc-aa41-473f9a297dc8_f9802a41-1c1b-46aa-a.png"
           }
         },
         "linkedCompetences": [
-          {
-            "name": "Kotlin",
-            "type": "technology"
-          },
           {
             "name": "Android",
             "type": "technology"
@@ -734,6 +571,70 @@
           },
           {
             "name": "Android Studio",
+            "type": "technology"
+          },
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo avanzado de aplicaciones iOS",
+        "startDate": "2013-05-01",
+        "finishDate": "2013-06-01",
+        "institution": {
+          "name": "Fundación UNED",
+          "description": "Curso de 60 horas de formación de desarrollo avanzado de aplicaciones iOS con Objective-C",
+          "URL": "https://www.fundacion.uned.es/",
+          "image": {
+            "alt": "Logo Fundación UNED.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/260608b1-2c5d-4790-b2fd-f070256d3b6f_1862d70f-0fbc-4408-a.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Objective-C",
+            "type": "technology"
+          },
+          {
+            "name": "XCode",
+            "type": "technology"
+          },
+          {
+            "name": "iOS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Iniciación al desarrollo de aplicaciones iOS",
+        "startDate": "2013-02-01",
+        "finishDate": "2013-03-01",
+        "institution": {
+          "name": "Fundación UNED",
+          "description": "Curso de 60 horas de formación de iniciación al desarrollo de aplicaciones iOS con Objective-C",
+          "URL": "https://www.fundacion.uned.es/",
+          "image": {
+            "alt": "Logo Fundación UNED.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/e44aa9ea-6f0e-4624-bc94-7abfef37549e_e1ecf792-0b04-41d3-8.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Objective-C",
+            "type": "technology"
+          },
+          {
+            "name": "XCode",
+            "type": "technology"
+          },
+          {
+            "name": "iOS",
             "type": "technology"
           }
         ]
@@ -750,20 +651,116 @@
           "URL": "https://www.fundacion.uned.es/",
           "image": {
             "alt": "Logo Fundación UNED.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/15/5391b38a-f7af-4bc2-aa61-f8dc04f56411_840ad9f9-5f6a-4dac-b.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/1aebdf9b-4576-49cc-8c1c-59293986e45a_5391b38a-f7af-4bc2-a.jpg"
           }
         },
         "linkedCompetences": [
-          {
-            "name": "iOS",
-            "type": "technology"
-          },
           {
             "name": "Objective-C",
             "type": "technology"
           },
           {
             "name": "XCode",
+            "type": "technology"
+          },
+          {
+            "name": "iOS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Desarrollo de aplicaciones Android",
+        "startDate": "2012-09-01",
+        "finishDate": "2013-01-01",
+        "institution": {
+          "name": "Seas y Universidad Católica de Ávila",
+          "description": "Curso de 150 horas de formación en desarrollo de aplicaciones nativas Android impartido por Seas y la Univerdad Católica de Ávila",
+          "URL": "https://www.seas.es/",
+          "image": {
+            "alt": "Logo Seas.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/c121146a-fcd7-47cf-80a0-e6e2cd0eccd8_71e4aa0f-ade7-41c9-9.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Android SDK",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Máster Java, J2EE, XML",
+        "startDate": "2007-09-01",
+        "finishDate": "2008-06-01",
+        "institution": {
+          "name": "Syncrom Informática",
+          "description": "Máster de 750 horas de formación en Java, J2EE y XML impartido por Syncrom Informática",
+          "image": {
+            "alt": "Logo Syncrom.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/ad0dd7d6-2a1a-4c52-8bbe-d8001d92833e_c1d7d7f6-3287-4f88-8.jpg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AJAX",
+            "type": "technology"
+          },
+          {
+            "name": "J2EE",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Superior en Desarrollo de Aplicaciones Informáticas",
+        "startDate": "2005-09-01",
+        "finishDate": "2007-06-01",
+        "institution": {
+          "name": "IES Monte Naranco",
+          "description": "Técnico superior en desarrollo de aplicaciones informáticas donde adquirí los conocimientos básicos de programación y desarrollo",
+          "image": {
+            "alt": "Logo Instituto Enseñanza Secundaria Monte Naranco.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/b30d5e62-5d5f-42f0-abff-0388a712f0be_d5db7a49-050f-4c5c-9.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "MySQL",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Basic",
             "type": "technology"
           }
         ]
@@ -792,11 +789,11 @@
       ],
       "discardedCompetences": [
         {
-          "name": "PhoneGap",
+          "name": "Cordova",
           "type": "technology"
         },
         {
-          "name": "Cordova",
+          "name": "PhoneGap",
           "type": "technology"
         },
         {
