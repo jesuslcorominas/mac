@@ -20,6 +20,10 @@
     },
     "relevantLinks": [
       {
+        "type": "other",
+        "URL": "https://g.dev/jesuslcorominas"
+      },
+      {
         "type": "github",
         "URL": "https://github.com/jesuslcorominas"
       },
