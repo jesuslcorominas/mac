@@ -424,6 +424,27 @@
     "studies": [
       {
         "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Kotlin Expert",
+        "startDate": "2022-06-01",
+        "institution": {
+          "name": "DevExperto",
+          "description": "Formación en Kotlin explorando todas las posibilidades del lenguaje, no solo Android si no también backend o multiplatform",
+          "URL": "https://kotlinexpert.com/",
+          "image": {
+            "alt": "logo-horizontal-grande-png.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/09/07/44947858-3c70-4206-96c8-999785dba1e9_logo-horizontal-gran.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Kotlin",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
         "degreeAchieved": true,
         "name": "Compose Expert",
         "startDate": "2021-10-01",
