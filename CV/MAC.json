@@ -133,15 +133,15 @@
                 "type": "technology"
               },
               {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
                 "name": "JAVA",
                 "type": "technology"
               },
               {
                 "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
                 "type": "technology"
               }
             ]
@@ -209,15 +209,15 @@
                 "type": "technology"
               },
               {
+                "name": "Apple iOS",
+                "type": "technology"
+              },
+              {
                 "name": "JAVA",
                 "type": "technology"
               },
               {
                 "name": "Objective-C",
-                "type": "technology"
-              },
-              {
-                "name": "iOS",
                 "type": "technology"
               }
             ]
@@ -383,10 +383,19 @@
   "knowledge": {
     "languages": [
       {
+        "name": "English"
+      },
+      {
         "name": "Spanish"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "Android",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "JAVA",
@@ -396,12 +405,6 @@
       {
         "skill": {
           "name": "Kotlin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Android",
           "type": "technology"
         }
       },
@@ -600,15 +603,15 @@
         },
         "linkedCompetences": [
           {
+            "name": "Apple iOS",
+            "type": "technology"
+          },
+          {
             "name": "Objective-C",
             "type": "technology"
           },
           {
             "name": "XCode",
-            "type": "technology"
-          },
-          {
-            "name": "iOS",
             "type": "technology"
           }
         ]
@@ -630,15 +633,15 @@
         },
         "linkedCompetences": [
           {
+            "name": "Apple iOS",
+            "type": "technology"
+          },
+          {
             "name": "Objective-C",
             "type": "technology"
           },
           {
             "name": "XCode",
-            "type": "technology"
-          },
-          {
-            "name": "iOS",
             "type": "technology"
           }
         ]
@@ -660,15 +663,15 @@
         },
         "linkedCompetences": [
           {
+            "name": "Apple iOS",
+            "type": "technology"
+          },
+          {
             "name": "Objective-C",
             "type": "technology"
           },
           {
             "name": "XCode",
-            "type": "technology"
-          },
-          {
-            "name": "iOS",
             "type": "technology"
           }
         ]
@@ -787,7 +790,7 @@
           "type": "technology"
         },
         {
-          "name": "iOS",
+          "name": "Apple iOS",
           "type": "technology"
         }
       ],
