@@ -202,7 +202,7 @@
             "finishDate": "2018-01-01",
             "challenges": [
               {
-                "description": "Durante casi 5 años trabajé en ABAMobile como desarrollador de aplicaciones nativas, tanto Android como iOS en múltiples proyectos para terceros. \nEntre ellos, destaca el catálogo digital de Philips Lighting, donde digitalizamos todo el catálogo de luminarias para Philips Lighting Ibérica primero e internacionalizándolo después en Europa y Norte América.\nTambién aquí colaboré en uno de los proyectos más entretenidos de mi carrera, el robot Next de la editorial Edelvives, consistente en permitir a niños conectarse a un robot y controlarlo mediante secuencias sencillas introducidas en el móvil."
+                "description": "Durante casi 5 años trabajé en ABAMobile como desarrollador de aplicaciones nativas, tanto Android como iOS en múltiples proyectos para terceros. \n\nEntre ellos, destaca el catálogo digital de Philips Lighting, donde digitalizamos todo el catálogo de luminarias para Philips Lighting Ibérica primero e internacionalizándolo después en Europa y Norte América.\n\nTambién aquí colaboré en uno de los proyectos más entretenidos de mi carrera, el robot Next de la editorial Edelvives, consistente en permitir a niños conectarse por bluetooth a un robot y controlarlo mediante secuencias sencillas introducidas en el móvil.\n\nTodo el trabajo hecho estaba desarrollado en Java para la parte Android y Objective-C para iOS. "
               }
             ],
             "competences": [
