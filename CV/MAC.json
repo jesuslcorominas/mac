@@ -58,7 +58,7 @@
             "startDate": "2020-10-01",
             "challenges": [
               {
-                "description": "Actualmente, trabajo como Ingeniero de Software en Nomasystems, empresa coruñesa pero de forma remota desde Oviedo. Estamos creando un producto para una multinacional textil para mejorar el recabado y visualización de la información en las tiendas y así incrementar las ventas y optimizar sus procesos."
+                "description": "Actualmente, trabajo como Ingeniero de Software en Nomasystems, empresa coruñesa pero de forma remota desde Oviedo. Estamos creando un producto para una multinacional textil para mejorar el recabado y visualización de la información en las tiendas y así incrementar las ventas y optimizar sus procesos.\n\nTodo el desarrollo se ha hecho con Kotlin siguiendo una Arquitectura Clean usando el patrón MVVM para la capa de presentación."
               }
             ],
             "competences": [
