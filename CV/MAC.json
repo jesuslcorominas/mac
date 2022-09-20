@@ -15,7 +15,9 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/19/d246f0d0-a2fc-4530-91f7-f37a69a8be2d_f8140369-6151-4036-b.png"
       },
       "location": {
-        "notes": "Oviedo"
+        "country": "España",
+        "region": "Principado de Asturias",
+        "municipality": "Oviedo"
       }
     },
     "relevantLinks": [
@@ -818,6 +820,10 @@
       "discardedCompetences": [
         {
           "name": "Cordova",
+          "type": "technology"
+        },
+        {
+          "name": "Flutter",
           "type": "technology"
         },
         {
