@@ -242,7 +242,7 @@
             "finishDate": "2012-08-01",
             "challenges": [
               {
-                "description": "Empecé mi carrera trabajando en Treelogic en la parte móvil de aplicaciones de gestión y seguimiento de flotas con Windows Mobile y Mobile Devices (dispositivos embarcados programados con Java).\nParticipé en el desarrollo de proyectos como la gestión de la flota de taxis de Lisboa, el servicio de recogida de basuras de Gijón o la cadena de supermercados Alimerka, tanto para el seguimiento de camiones como la aplicación de los repartidores a domicilio."
+                "description": "Empecé mi carrera trabajando en Treelogic en la parte móvil de aplicaciones de gestión y seguimiento de flotas con Windows Mobile y Mobile Devices (dispositivos embarcados programados con Java).\n\nParticipé en el desarrollo de proyectos como la gestión de la flota de taxis de Lisboa, el servicio de recogida de basuras de Gijón o la cadena de supermercados Alimerka, tanto para el seguimiento de camiones como la aplicación de los repartidores a domicilio.\n\nLa aplicación hecha para Windows Mobile estaba hecha con C#, mientras que para Mobile Devices se desarrollaba en Java.\n\nEsta experiencia fue la que hizo que quisiese dedicarme al mundo móvil, y aunque son tecnologías desfasadas hoy día si que me sirvieron para conocer problemas que aún hoy se dan en este tipo de dispositivos. Además, aquí aprendí la importancia de la modularidad y reaprovechamiento del trabajo realizado."
               }
             ],
             "competences": [
