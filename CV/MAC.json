@@ -90,7 +90,7 @@
             "finishDate": "2020-10-01",
             "challenges": [
               {
-                "description": "En Talkao trabajé durante más de dos años en productos internos de la empresa, aplicaciones de traducción en múltiples formatos, como texto, hablado, reconocimiento de imágenes o de texto."
+                "description": "En Talkao trabajé durante más de dos años en productos internos de la empresa, aplicaciones de traducción en múltiples formatos, como texto, hablado, reconocimiento de imágenes o de texto.\n\nAunque el mantenimiento de los módulos ya implantados se hacían en Java, todos los nuevos desarrollos se hacían con Kotlin."
               }
             ],
             "competences": [
