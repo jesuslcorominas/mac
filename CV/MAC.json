@@ -126,7 +126,7 @@
             "finishDate": "2018-08-01",
             "challenges": [
               {
-                "description": "Durante 8 meses trabajé en la consultora Capgemini ayudando a lanzar el equipo de movilidad para la factoría de Asturias, colaborando en la definición de la arquitectura y patrones a utilizar en las aplicaciones a desarrollar, tanto internas como para terceros."
+                "description": "Durante 8 meses trabajé en la consultora Capgemini ayudando a lanzar el equipo de movilidad para la factoría de Asturias, colaborando en la definición de la arquitectura y patrones a utilizar en las aplicaciones a desarrollar, tanto internas como para terceros.\n\nEn Capgemini empecé a especializarme en el desarrollo Android y la práctica totalidad de mi tiempo estuve desarrollando en Kotlin."
               }
             ],
             "competences": [
@@ -139,11 +139,11 @@
                 "type": "technology"
               },
               {
-                "name": "JAVA",
+                "name": "Kotlin",
                 "type": "technology"
               },
               {
-                "name": "Objective-C",
+                "name": "Swift",
                 "type": "technology"
               }
             ]
