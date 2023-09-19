@@ -675,7 +675,7 @@
       },
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Kotlin Expert",
         "startDate": "2022-06-01",
         "institution": {
@@ -687,6 +687,7 @@
             "alt": "logo-horizontal-grande-png.png"
           }
         },
+        "finishDate": "2023-09-01",
         "linkedCompetences": [
           {
             "name": "Kotlin",
@@ -757,6 +758,31 @@
           },
           {
             "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Testing Expert",
+        "startDate": "2023-07-01",
+        "institution": {
+          "name": "DevExperto",
+          "description": "Curso de 25 horas donde se muestran todos los conceptos, filosofías, tipos, herramientas y técnicas más populares para escribir tests en Android.",
+          "URL": "https://devexpert.io/testing-expert/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/09/19/67a43cab-9754-4702-ac75-a78ff7e4a032_testing_expert.png",
+            "alt": "testing_expert.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Mockito",
             "type": "technology"
           }
         ]
