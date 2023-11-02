@@ -403,6 +403,18 @@
       },
       {
         "skill": {
+          "name": "Android SDK",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Android Studio",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
           "type": "technology"
         }
@@ -904,6 +916,20 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Android",
+        "type": "technology"
+      },
+      {
+        "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Kotlin",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Me gustaría trabajar desarrollando aplicaciones móviles nativas participando en la toma de decisiones, arquitectura y análisis de las mismas, ayudando a decidir qué usar, por qué usarlo y cuándo usarlo, no simplemente \"picando\" o \"cambiando colores\". \nPoder investigar en los últimos avances de las plataformas y que las aplicaciones a desarrollar puedan evolucionar con ellos sería muy bueno. \nAunque no quiero enfocar mi carrera a la gestión de equipos, tomar algo más de responsabilidad, ayudando a programadores con menos experiencia sí es algo que me atrae. \nPrincipalmente, me gustaría hacer todo esto con aplicaciones Android pero si hay que hacer algo de iOS tampoco me importaría.\nHe pasado toda mi carrera en Asturias pero no estoy cerrado a mudarme si las condiciones son buenas y el proyecto es interesante.",
     "goodPractices": "Trabajo en equipo, SOLID, Clean Architecture"
   }
