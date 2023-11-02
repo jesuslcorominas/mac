@@ -29,6 +29,14 @@
     ],
     "relevantLinks": [
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jesus-lopez-corominas-34a5171a/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jesuslcorominas"
+      },
+      {
         "type": "other",
         "URL": "https://g.dev/jesuslcorominas"
       }
