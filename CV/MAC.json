@@ -38,7 +38,12 @@
       },
       {
         "type": "other",
-        "URL": "https://g.dev/jesuslcorominas"
+        "URL": "https://g.dev/jesuslcorominas",
+        "description": "Google Developers"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.getmanfred.com/perfil/jesuslcorominas"
       }
     ]
   },
