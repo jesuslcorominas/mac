@@ -423,7 +423,19 @@
       },
       {
         "skill": {
+          "name": "Dagger Hilt",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitHub Copilot",
           "type": "technology"
         }
       },
@@ -435,7 +447,19 @@
       },
       {
         "skill": {
+          "name": "Jetpack Compose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Koin",
           "type": "technology"
         }
       },
@@ -932,6 +956,10 @@
       },
       {
         "name": "Git",
+        "type": "technology"
+      },
+      {
+        "name": "Jetpack Compose",
         "type": "technology"
       },
       {
