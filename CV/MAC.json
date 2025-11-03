@@ -269,6 +269,28 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "iTrace Raw Material",
+          "description": "Aplicación para realizar auditorías de la elaboración de las materias primas para fábricas y y proveedores del sector textil.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/03/5f5f2825-1186-470c-9ec0-a92989e42604_inditex-web.jpg",
+            "alt": "inditex-web.jpg"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2025-06-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "Jetpack Compose",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "iTrace",
           "description": "Aplicación Android 100% nativa para realizar auditorías a diversos proveedores y fábricas del sector textil y así poder hacer un seguimiento del producto terminado.",
           "image": {
