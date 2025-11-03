@@ -269,6 +269,24 @@
     "publicArtifacts": [
       {
         "details": {
+          "name": "iTrace",
+          "description": "Aplicación Android 100% nativa para realizar auditorías a diversos proveedores y fábricas del sector textil y así poder hacer un seguimiento del producto terminado.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/11/03/3df39792-b30a-46ef-84eb-6a63787fa189_ic_launcher-playstor.png",
+            "alt": "ic_launcher-playstore.png"
+          }
+        },
+        "type": "launch",
+        "publishingDate": "2024-05-01",
+        "relatedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Gestion Retail",
           "description": "Lanzamiento de la primera versión de Gestion Retail para optimizar la visualización de la información en tiendas de multinacional textil",
           "image": {
