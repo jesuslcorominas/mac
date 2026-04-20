@@ -463,6 +463,12 @@
       },
       {
         "skill": {
+          "name": "Claude Code",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Dagger Hilt",
           "type": "technology"
         }
@@ -779,7 +785,7 @@
             "alt": "logo-horizontal-grande-png.png"
           }
         },
-        "finishDate": "2023-09-01",
+        "finishDate": "2022-09-01",
         "linkedCompetences": [
           {
             "name": "Kotlin",
@@ -992,6 +998,10 @@
     "mainStackTechs": [
       {
         "name": "Android",
+        "type": "technology"
+      },
+      {
+        "name": "Claude Code",
         "type": "technology"
       },
       {
